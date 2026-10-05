@@ -1,0 +1,19 @@
+## 1. How to create VM ?
+    python -m venv venv
+
+## 2. Activate VM in python project VIA CMD.
+
+    >.\env\Scripts\activate.bat  | >.\venv\Scripts\activate.bat
+
+## 3. Activate VM in python project VIA terminal VS Code.
+
+    .\env\Scripts\activate  |  .\venv\Scripts\activate
+
+## 4.  Deactivate VM in python project VIA CMD.
+
+    >deactivate
+
+## 5. How to install google gemini.
+
+    pip install -U google-genai
+
